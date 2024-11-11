@@ -1,7 +1,6 @@
 package com.github.fabriciolfj.repository;
 
 import com.github.fabriciolfj.entity.Person;
-import com.github.fabriciolfj.entity.Person$;
 import com.speedment.jpastreamer.application.JPAStreamer;
 import jakarta.enterprise.context.ApplicationScoped;
 import jakarta.persistence.EntityManagerFactory;
